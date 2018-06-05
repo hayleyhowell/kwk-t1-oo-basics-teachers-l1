@@ -17,4 +17,10 @@ class Shoe
   end 
   
   def material
+    @material
+  end 
+  
+  def condition
+    @condition
+  end
 end 
