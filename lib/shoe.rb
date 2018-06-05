@@ -23,7 +23,7 @@ class Shoe
   def condition
     @condition
   end
+  
+  def cobble
+    puts ""
 end 
-
-cobble = Shoe.new("Nike")
-cobble.condition = "repaired"
