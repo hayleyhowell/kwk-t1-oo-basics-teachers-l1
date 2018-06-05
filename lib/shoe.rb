@@ -8,10 +8,6 @@ class Shoe
     @brand
   end 
   
-  def brand(newBrand)
-    @brand = newBrand
-  end
-  
   def color 
     @color 
   end 
