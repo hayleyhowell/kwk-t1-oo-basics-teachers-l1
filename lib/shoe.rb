@@ -45,7 +45,7 @@ class Shoe
   end 
   
   def cobble
-    this.conditon("new")
+    @conditon = "new"
     puts "Your shoe is as good as new!"
   end
   
