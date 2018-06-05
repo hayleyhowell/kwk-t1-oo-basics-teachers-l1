@@ -12,4 +12,5 @@ end
     @author = author
   end
 
+  def author = author 
 Book.new("And Then There Were None")
