@@ -24,6 +24,12 @@ class Shoe
     @condition
   end
   
+  def condition = (newCondition)
+    @condition = newCondition
+  end 
+  
   def cobble
-    puts ""
+    puts "Your shoe is as good as new!"
+  end
+  
 end 
