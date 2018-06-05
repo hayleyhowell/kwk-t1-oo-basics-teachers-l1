@@ -7,4 +7,14 @@ class Shoe
   def brand
     @brand
   end 
+  
+  def color 
+    @color 
+  end 
+  
+  def size 
+    @size 
+  end 
+  
+  def material
 end 
