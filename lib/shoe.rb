@@ -24,3 +24,6 @@ class Shoe
     @condition
   end
 end 
+
+cobble = Shoe.new("Nike")
+cobble.condition = "repaired"
