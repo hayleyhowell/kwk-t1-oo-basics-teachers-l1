@@ -41,7 +41,7 @@ class Shoe
   end 
   
   def cobble
-    @conditon = new
+    @conditon = 
     puts "Your shoe is as good as new!"
   end
   
